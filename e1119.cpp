@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-// Chapter 19, exercise 11: design and implement a counted_ptr<T>: a type that
+// design and implement a counted_ptr<T>: a type that
 // holds a pointer to an object of type T and a pointer to a "user count" (an
 // int) shared by all pointers to the same object of type T, holding the number
 // of counted pointers pointing to a given T. The constructor should allocate a
