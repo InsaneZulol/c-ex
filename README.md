@@ -1,2 +1,2 @@
 # c-ex
-random ex.
+random exercises from Principles and Practice
