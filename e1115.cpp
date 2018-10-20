@@ -3,7 +3,7 @@
 //* one. Test with empty lines after the table and files that don't end with a *//
 //* newline at_all *//
 
-// chapter23_ex09_in1.txt ends with \n on the last line //
+// chapter23_ex09_in1.txt ends with \n on the last line /
 // chapter23_ex09_in2.txt has empty lines after the table //
 // chapter23_ex09_in3.txt ends wihtout a newline
 // chapter23_ex09_in4.txt has an empty line in the middle
